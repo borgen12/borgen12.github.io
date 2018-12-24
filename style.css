@@ -18,6 +18,11 @@ body {
     
 }
 
+.contact {
+  font-size: 20px;
+  margin-bottom: -20px;
+}
+
 p {
   font-family: Arial;
   margin-top: -10px;
