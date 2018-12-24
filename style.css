@@ -11,7 +11,8 @@ body {
   
   padding: 10px 150px 10px 150px;
   
-  border-radius: 400px;
+  border-radius: 80px;
+  border-right-width: 100px;
   background-color: #B0C4DE;
   
     
