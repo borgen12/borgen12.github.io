@@ -15,13 +15,15 @@ body {
   border-right-width: 100px;
   background-color: #B0C4DE;
   
+  text-align: center
+  
     
 }
 
 .contact {
   font-size: 10px;
   margin-bottom: -20px;
-  float: right;
+  float: right !important;
 }
 
 p {
