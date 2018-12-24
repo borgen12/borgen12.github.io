@@ -21,6 +21,7 @@ body {
 .contact {
   font-size: 10px;
   margin-bottom: -20px;
+  float: right;
 }
 
 p {
