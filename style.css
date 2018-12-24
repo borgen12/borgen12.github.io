@@ -32,6 +32,7 @@ p {
 }
 
 .title {
+  opacity: 0.75;
   font-width: 100;
   margin-top: -20px;
   
